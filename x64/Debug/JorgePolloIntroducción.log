@@ -1,0 +1,4 @@
+﻿  JorgePolloIntroducción.cpp
+C:\Users\david\source\repos\JorgePolloIntroducción\JorgePolloIntroducción\JorgePolloIntroducción.cpp(6,50): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\david\source\repos\JorgePolloIntroducción\JorgePolloIntroducción\JorgePolloIntroducción.cpp(6,43): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  JorgePolloIntroducción.vcxproj -> C:\Users\david\source\repos\JorgePolloIntroducción\x64\Debug\JorgePolloIntroducción.exe
